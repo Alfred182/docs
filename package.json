@@ -20,7 +20,7 @@
   "dependencies": {
     "@nanostores/react": "^0.4.1",
     "@prisma/client": "4.10.1",
-    "@radix-ui/react-scroll-area": "^1.0.2",
+    "@radix-ui/react-scroll-area": "^1.2.9",
     "@tailwindcss/typography": "^0.5.9",
     "classnames": "^2.3.2",
     "contentlayer": "^0.3.4",
