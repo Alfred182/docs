@@ -48,7 +48,7 @@ RUN echo $RAILWAY_SERVICE_NAME
 
 Be sure to declare your environment variables in the stage they are required in:
 ```dockerfile
-FROM node
+FROM node:25.6.0-bookworm
 
 ARG RAILWAY_ENVIRONMENT
 ```
